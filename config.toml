@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = " "
+theme = 'hyde'
+[Params]
+  description = 'Victor Jacek'
