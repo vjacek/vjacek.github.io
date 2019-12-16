@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Victor Jacek</title>
+    <link>http://vjacek.github.io/posts/</link>
+    <description>Recent content in Posts on Victor Jacek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Feb 2019 01:02:03 -0405</lastBuildDate>
+    
+	<atom:link href="http://vjacek.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Emoji of Data</title>
+      <link>http://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</link>
+      <pubDate>Tue, 26 Feb 2019 01:02:03 -0405</pubDate>
+      
+      <guid>http://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</guid>
+      <description>I recently spent some time thinking about how nice it is to be able to pay for gas a with a phone app from inside the car, the get out and start pumping immediately, no card swiping or buttons besides the big 89 needed. And once you&amp;rsquo;re done pumping, the app collects one single point of feeback data: you can click either the Smile, Meh, or Frown emoji.
+Theoretically, something is being done with this data.</description>
+    </item>
+    
+    <item>
+      <title>Design Inspiration from a Gas Station</title>
+      <link>http://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</link>
+      <pubDate>Sun, 25 Feb 2018 01:02:03 -0405</pubDate>
+      
+      <guid>http://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</guid>
+      <description>In the past few years, Cumberland Farms has transformed themselves from a blue-and-orange gas station that you go to because you have to, into a blue-and-green (because you can reap the marketing rewards of the color green) gas station destination.
+They did all this by changing the few things that people actually care about when it comes to gas stations. The stations now have a bright, modern design, with white walls and light wood floors.</description>
+    </item>
+    
+  </channel>
+</rss>
