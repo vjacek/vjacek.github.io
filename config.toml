@@ -4,6 +4,7 @@ title = "Victor Jacek"
 theme = 'hyde'
 buildDrafts = 'false'
 publishDir = '.'
+relativeURLs = 'true'
 [Params]
   description = 'Victor Jacek'
   
