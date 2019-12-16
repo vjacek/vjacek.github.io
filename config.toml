@@ -1,6 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://vjacek.github.io/"
 languageCode = "en-us"
-title = " "
+title = "Victor Jacek"
 theme = 'hyde'
+buildDrafts = 'false'
+publishDir = '/docs'
 [Params]
   description = 'Victor Jacek'
+  
