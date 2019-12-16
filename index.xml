@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victor Jacek</title>
-    <link>http://vjacek.github.io/</link>
+    <link>https://vjacek.github.io/</link>
     <description>Recent content on Victor Jacek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Feb 2019 01:02:03 -0405</lastBuildDate>
     
-	<atom:link href="http://vjacek.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vjacek.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One Emoji of Data</title>
-      <link>http://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</link>
+      <link>https://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</link>
       <pubDate>Tue, 26 Feb 2019 01:02:03 -0405</pubDate>
       
-      <guid>http://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</guid>
+      <guid>https://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</guid>
       <description>I recently spent some time thinking about how nice it is to be able to pay for gas a with a phone app from inside the car, the get out and start pumping immediately, no card swiping or buttons besides the big 89 needed. And once you&amp;rsquo;re done pumping, the app collects one single point of feeback data: you can click either the Smile, Meh, or Frown emoji.
 Theoretically, something is being done with this data.</description>
     </item>
     
     <item>
       <title>Design Inspiration from a Gas Station</title>
-      <link>http://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</link>
+      <link>https://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</link>
       <pubDate>Sun, 25 Feb 2018 01:02:03 -0405</pubDate>
       
-      <guid>http://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</guid>
+      <guid>https://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</guid>
       <description>In the past few years, Cumberland Farms has transformed themselves from a blue-and-orange gas station that you go to because you have to, into a blue-and-green (because you can reap the marketing rewards of the color green) gas station destination.
 They did all this by changing the few things that people actually care about when it comes to gas stations. The stations now have a bright, modern design, with white walls and light wood floors.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://vjacek.github.io/drafts/draft-ideas/</link>
+      <link>https://vjacek.github.io/drafts/draft-ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vjacek.github.io/drafts/draft-ideas/</guid>
+      <guid>https://vjacek.github.io/drafts/draft-ideas/</guid>
       <description>Ideas  Ignoring things is more powerful than reading everything Lots of stuff outside of control can never all be read Organizing useful output - write logs, but good logs Process / workflow first, details second I love throwing stuff away Engineer s analysis of how to fold socks Umbrellas are the worst Usefullness is the Prime Directive of Design Prime Directive: make the computers do the work How to do a good job without caring because caring too much is what causes burnout Google opinion rewards and surveys aren&amp;rsquo;t worth the phone notification and interruption The only way to kill old bad software is to write me things that are so easy and fast and good to use that people can&amp;rsquo;t help but use them Story about how people who use newer tools are better (you&amp;rsquo;re better if you have the latest iphone) Hybrid strategy always wins&amp;hellip; On prem and spikes to cloud are stronger than either and don&amp;rsquo;t waste idle resources&amp;hellip;.</description>
     </item>
     
