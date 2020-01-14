@@ -8,39 +8,35 @@
   </url>
   
   <url>
+    <loc>https://vjacek.github.io/posts/</loc>
+    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vjacek.github.io/</loc>
+    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</loc>
     <lastmod>2018-02-25T01:02:03-04:05</lastmod>
   </url>
   
   <url>
     <loc>https://vjacek.github.io/drafts/draft-ideas/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vjacek.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vjacek.github.io/drafts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vjacek.github.io/posts/</loc>
-    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vjacek.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vjacek.github.io/</loc>
-    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
