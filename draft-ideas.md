@@ -1,4 +1,8 @@
-# Ideas
+---
+title: "Draft Ideas"
+date: 2020-01-18T01:02:03-04:05
+draft: true
+---
 
 - Ignoring things is more powerful than reading everything
   Lots of stuff outside of control can never all be read
