@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</loc>
-    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
+    <loc>https://vjacek.github.io/posts/2022-8-6-recent-reading/</loc>
+    <lastmod>2022-08-06T22:33:14-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/posts/</loc>
-    <lastmod>2019-02-26T01:02:03-04:05</lastmod>
+    <lastmod>2022-08-06T22:33:14-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/</loc>
+    <lastmod>2022-08-06T22:33:14-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</loc>
     <lastmod>2019-02-26T01:02:03-04:05</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</loc>
