@@ -1,7 +1,7 @@
 ---
 title: "Recent Reading"
 date: 2022-08-24T22:33:14-04:00
-draft: true
+draft: false
 tags: ['reading']
 ---
 
