@@ -5,6 +5,16 @@
     <link>https://vjacek.github.io/tags/</link>
     <description>Recent content in Tags on Victor Jacek</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vjacek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2022 08:22:00 -0400</lastBuildDate><atom:link href="https://vjacek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reading</title>
+      <link>https://vjacek.github.io/tags/reading/</link>
+      <pubDate>Sat, 03 Sep 2022 08:22:00 -0400</pubDate>
+      
+      <guid>https://vjacek.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
