@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/posts/2022-9-3-recent-reading/</loc>
-    <lastmod>2022-09-03T08:22:00-04:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/posts/</loc>
-    <lastmod>2022-09-03T08:22:00-04:00</lastmod>
+    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/tags/reading/</loc>
-    <lastmod>2022-09-03T08:22:00-04:00</lastmod>
+    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/posts/2023-1-7-shadow-of-a-dark-queen/</loc>
+    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/tags/</loc>
-    <lastmod>2022-09-03T08:22:00-04:00</lastmod>
+    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/</loc>
+    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/posts/2022-9-3-recent-reading/</loc>
     <lastmod>2022-09-03T08:22:00-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/posts/2022-8-6-recent-reading/</loc>
