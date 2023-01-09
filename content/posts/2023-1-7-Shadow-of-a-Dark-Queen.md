@@ -1,7 +1,7 @@
 ---
 title: "Shadow of a Dark Queen"
 date: 2023-01-07T22:42:50-05:00
-draft: true
+draft: false
 tags: ['reading']
 ---
 

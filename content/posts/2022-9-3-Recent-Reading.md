@@ -1,5 +1,5 @@
 ---
-title: "2022.9.3 Recent Reading"
+title: "Recent Reading"
 date: 2022-09-03T08:22:00-04:00
 draft: false
 tags: ['reading']
