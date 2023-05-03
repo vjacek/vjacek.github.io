@@ -5,8 +5,8 @@ draft: false
 ---
 
 ### The Secret Lives of Color
-Kassia St Clair
-&#9733; &#9733; &#9733; &#9734; &#9734;
+Kassia St Clair  
+&#9733; &#9733; &#9733; &#9734; &#9734;  
 
 I think I read this book incorrectly.  I approached it in the usual manner; starting at the front, making progress one page at a time, until all pages have been turned in order.  Progress was measured in groups of 10-20 pages, covering the stories of 2-5 individual colors at a time.
 
