@@ -23,6 +23,14 @@ Looking at photos of those same skeletons now, imagining those creatures alive a
 I've written this so far while only having read half way through the book, and it gets an automatic 5-star review for the nightmare fuel of being hunted by a T. Rex.  There might be more to write, but I certainly won't need to.
 
 --
+
+Upon finishing the book, the only necessary addition is taking note of this wonderful insult:
+
+> "Simple?  You're a bigger fool than I thought you were.  And I thought you were a very substantial fool."
+
+- Dr. Ian Malcolm
+
+--
   
   
 [1] Vital statistics, absolute abundance and preservation rate of Tyrannosaurus rex (Science 2021)
