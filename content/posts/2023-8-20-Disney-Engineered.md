@@ -6,9 +6,9 @@ draft: false
 
 ![/2023-8-20-Disney-Engineered-Pic1.jpeg](/2023-8-20-Disney-Engineered-Pic1.jpeg)
 
-Besides world-class entertainment, immersive story-driven rides, and fine dining where you can eat filet mignon 3 times a day <sup>1</sup>, the engineered efficiency of Disney World is absolutely top-tier. That makes it all the more fun to find situations that can be improved. Our most recent trip in August 2023 provided a few:
+Besides world-class entertainment, immersive story-driven rides, and fine dining where you can eat filet mignon 3 times a day [1], the engineered efficiency of Disney World is absolutely top-tier. That makes it all the more fun to find situations that can be improved. Our most recent trip in August 2023 provided a few:
 
-In order to enter the parks, you must scan either an RFID-based MagicBand<sup>TM</sup> which is like a digital watch without all the excitement, or an RFID-based card, which is like a Disney-branded RFID card. Disney has correctly anticipated that the park entrance lines will be extremely busy, especially during park opening, and has therefore placed 2 RFID scanners at the head of every entrance line.
+In order to enter the parks, you must scan either an RFID-based MagicBand(TM) which is like a digital watch without all the excitement, or an RFID-based card, which is like a Disney-branded RFID card. Disney has correctly anticipated that the park entrance lines will be extremely busy, especially during park opening, and has therefore placed 2 RFID scanners at the head of every entrance line.
 
 Ideally, the head of each line splits and uses these scanners in parallel, moving the line twice as fast. However, these scanners are situated one after another as you walk in, instead of side-by-side. For those of us who understand how to walk in crowded places, this isn't a problem: I would walk past the first scanner and use the second, while Lucy stops at and uses the first. Scanning completes at roughly the same time, and we both proceed efficiently into the park. Unfortunately the majority of people cannot fathom that their body takes up physical space in this world, and stop one-at-a-time at the first scanner, leaving the second scanner empty and the scan points operating around 50% occupancy.
 
@@ -22,7 +22,7 @@ Another significant inefficiency takes place at the best ride in EPCOT: Soarin' 
 
 A better solution would be to load riders furthest into the theater first, so that no row is blocked by riders finding their seats and everyone can progress at walking speed the whole time. This would load the ride in row order 1, 2, 3. O(r + r + r) = O(3r) = O(n). Half the time!!!
 
-As luck would have it, our MinnieVan back to the resort hotel one night was driven by Abby, a Disney College Program <sup>TM</sup> grad who previously worked on Soarin'. Although her driving was a little slower than Frank the Tank's Test Track simulation the day before, we learned a lot more about Soarin' <sup>2</sup>. Apparently, Disney loads in the "slow" configuration on purpose because there are also guests exiting the ride at exactly the same time, so the theater is both emptying and filling at once. In order to allow this probably larger efficiency, Disney intentionally slows down loading so that there is less confusion in the theater overall.
+As luck would have it, our MinnieVan back to the resort hotel one night was driven by Abby, a Disney College Program(TM) grad who previously worked on Soarin'. Although her driving was a little slower than Frank the Tank's Test Track simulation the day before, we learned a lot more about Soarin' [2]. Apparently, Disney loads in the "slow" configuration on purpose because there are also guests exiting the ride at exactly the same time, so the theater is both emptying and filling at once. In order to allow this probably larger efficiency, Disney intentionally slows down loading so that there is less confusion in the theater overall.
 
 1. Yes.
 2. Ask for B2. This puts you at the focal point of the IMAX screen and is therefore the best possible seat.
