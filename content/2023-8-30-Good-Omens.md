@@ -6,8 +6,7 @@ draft: false
 
 ### Good Omens
 
-Neil Gaiman and Terry Pratchett
-
+Neil Gaiman and Terry Pratchett  
 &#9733; &#9733; &#9733; &#9733; &#9733;
 
 I've never been the antagonist of a book before, but it turns out to be pretty fun. When a logical argument can be made for the representatives of both Heaven and Hell to work together because the real problem is those pesky humans, the result is a golden story. The best part is that the relationship between an angel and demon turns out incredibly naturally, perhaps because they both borrow so much of their personalities from those same flawed humans.
