@@ -7,4 +7,9 @@ publishDir = '.'
 relativeURLs = 'true'
 [Params]
   description = 'Victor Jacek'
-  
+[Menus]
+  main = [
+    {Name = "Photography", URL = "https://www.instagram.com/victorjacek/" },
+    {Name = "GitHub", URL = "https://github.com/vjacek/" },
+    {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
+  ]
