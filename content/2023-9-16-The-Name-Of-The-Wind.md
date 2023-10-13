@@ -25,3 +25,5 @@ The book also touches significantly on the power of words and names. There is ma
 Although not fantastically quotable, there are a great many important lessons throughout the book. There's even a touch of stocism thrown in:
 
 > Just pity him, my boy. Tomorrow we'll be on our way, but he'll have to keep his own disagreeable company until the day he dies.
+
+Lastly, but firstly in the book, is the very clever storytelling perspective of the narrator and hero telling his own story to another character in the book. So most of the novel is spent in a story-in-story, with interludes of stepping out into "present day". It's a fun device that does a good job of breaking up the story into themed segments far more interesting than your average chapter.
