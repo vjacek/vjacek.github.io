@@ -18,4 +18,4 @@ That said, I took away a few nuggets of golden wisdom:
 
 - Be wary of the Ego's ability to make yourself think you know too much,. This is the easiest way to ignore good new input.
 
-- Do not expect anyone to be good, or a role model in all ways. Learning a single lesson from sonmeone can be plenty. It is then your task to assemble the positive characters you meet into yourself as the highest possible life.
+- Do not expect anyone to be good, or a role model in all ways. Learning a single lesson from someone can be plenty. It is then your task to assemble the positive characters you meet into the best possible version of yourself.
