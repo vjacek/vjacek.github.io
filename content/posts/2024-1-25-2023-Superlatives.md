@@ -1,7 +1,7 @@
 ---
 title: "2023 Superlatives"
 date: 2024-01-25T22:48:10-05:00
-draft: true
+draft: false
 ---
 
 For the first time, probably ever, I think I actually own all the books I read in the previous year. So while I enjoy ranking books, among other things, doing it physically is a fun twist!
