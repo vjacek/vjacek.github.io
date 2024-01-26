@@ -1,5 +1,5 @@
 ---
-title: "2023-12-17 Think Like a Monk"
+title: "Think Like a Monk"
 date: 2023-12-20T22:58:06-05:00
 draft: false
 ---
