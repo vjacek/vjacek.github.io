@@ -13,3 +13,7 @@ relativeURLs = 'true'
     {Name = "GitHub", URL = "https://github.com/vjacek/" },
     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
   ]
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-Y9QXKKR9SE'
