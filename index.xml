@@ -6,13 +6,33 @@
     <description>Recent content on Victor Jacek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2024 23:43:47 -0500</lastBuildDate><atom:link href="https://vjacek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 22:42:50 -0500</lastBuildDate><atom:link href="https://vjacek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating My Mistakes</title>
+      <link>https://vjacek.github.io/2021-3-19-automating-my-mistakes/</link>
+      <pubDate>Wed, 14 Feb 2024 23:00:00 -0500</pubDate>
+      
+      <guid>https://vjacek.github.io/2021-3-19-automating-my-mistakes/</guid>
+      <description>Originally published on 2021-3-19 as an internal tech blog post when I was the Tech Lead for Wayfair&amp;rsquo;s Experimentation Platform team. Internal links will not work.
+Automating my mistakes While building the initial steps of the GTQ project I found mysef stuck without a way to test code locally (at least without standing up a lot more project environment scaffolding), meaning that I had a slightly longer than ideal change/test loop:</description>
+    </item>
+    
+    <item>
+      <title>Memory Profiling with Python</title>
+      <link>https://vjacek.github.io/2021-1-26-python-memory-profiling/</link>
+      <pubDate>Wed, 14 Feb 2024 23:00:00 -0500</pubDate>
+      
+      <guid>https://vjacek.github.io/2021-1-26-python-memory-profiling/</guid>
+      <description>Originally published on 2021-1-26 as an internal tech blog post when I was the Tech Lead for Wayfair&amp;rsquo;s Experimentation Platform team. Internal links will not work.
+Where I learn about memory profiling in Python We&amp;rsquo;ve observed that Simulations can fail when run in Kubernetes pods. We suspect the reason is that these pods are under-resourced and are running out of memory, then being killed/restarted by Kubernetes in order to keep the overall cluster healthy.</description>
+    </item>
+    
     <item>
       <title>Nightfall</title>
-      <link>https://vjacek.github.io/posts/2024-2-5-nightfall/</link>
+      <link>https://vjacek.github.io/2024-2-5-nightfall/</link>
       <pubDate>Mon, 05 Feb 2024 23:43:47 -0500</pubDate>
       
-      <guid>https://vjacek.github.io/posts/2024-2-5-nightfall/</guid>
+      <guid>https://vjacek.github.io/2024-2-5-nightfall/</guid>
       <description>Isaac Asimov
 ★ ★ ★ ★ ★
 One of the most impressive aspects of Asimov&amp;rsquo;s writing is that it can change your worldview in just a few pages of a short story. When the twist at the end makes you rethink how the universe works, the writing comes alive off the page.
@@ -21,20 +41,20 @@ The Nightfall anthology is great for 2 reasons. It covers a huge range of topics
     
     <item>
       <title>2023 Superlatives</title>
-      <link>https://vjacek.github.io/posts/2024-1-25-2023-superlatives/</link>
+      <link>https://vjacek.github.io/2024-1-25-2023-superlatives/</link>
       <pubDate>Thu, 25 Jan 2024 22:48:10 -0500</pubDate>
       
-      <guid>https://vjacek.github.io/posts/2024-1-25-2023-superlatives/</guid>
+      <guid>https://vjacek.github.io/2024-1-25-2023-superlatives/</guid>
       <description>For the first time, probably ever, I think I actually own all the books I read in the previous year. So while I enjoy ranking books, among other things, doing it physically is a fun twist!
 If I had to place a dividing line, I&amp;rsquo;d put only the top 4, The Deep Range and above, into my &amp;ldquo;highly recommended&amp;rdquo; list for the year. I&amp;rsquo;m proud of myself for trying such a wide range of books, but in the future I would rather increse the percentage of books that I really enjoy.</description>
     </item>
     
     <item>
       <title>Think Like a Monk</title>
-      <link>https://vjacek.github.io/posts/2023-12-17-think-like-a-monk/</link>
+      <link>https://vjacek.github.io/2023-12-17-think-like-a-monk/</link>
       <pubDate>Wed, 20 Dec 2023 22:58:06 -0500</pubDate>
       
-      <guid>https://vjacek.github.io/posts/2023-12-17-think-like-a-monk/</guid>
+      <guid>https://vjacek.github.io/2023-12-17-think-like-a-monk/</guid>
       <description>Jay Shetty
 ★ ★ ☆ ☆ ☆
 This book took me probably 6 months to finish. I picked it up several times, but struggled to find it interesting enough to finish and frequently moved on to a new book. I would have greatly preferred to simply read stories about Shetty&amp;rsquo;s time in the ashram, and how he applies those lessons to modern life.
@@ -43,10 +63,10 @@ It sits at the intersection of productive self-improvement and philosophy, so os
     
     <item>
       <title>The Left Hand of Darkness</title>
-      <link>https://vjacek.github.io/posts/2023-12-12-the-left-hand-of-darkness/</link>
+      <link>https://vjacek.github.io/2023-12-12-the-left-hand-of-darkness/</link>
       <pubDate>Fri, 15 Dec 2023 22:22:50 -0500</pubDate>
       
-      <guid>https://vjacek.github.io/posts/2023-12-12-the-left-hand-of-darkness/</guid>
+      <guid>https://vjacek.github.io/2023-12-12-the-left-hand-of-darkness/</guid>
       <description>Ursula K. LeGuin
 ★ ☆ ☆ ☆ ☆
 This book really sucks. Mostly for the completely wasted opportunities of fairly good ideas. A world too cold for insects and animals larger than a dog to survive, yet with still active volcanic zones. People who are both genders. Explorers from worlds light years away making contact with primitive humans and bringing them into a universal community. Actually, that last one had a documentary about it called Stargate.</description>
@@ -54,10 +74,10 @@ This book really sucks. Mostly for the completely wasted opportunities of fairly
     
     <item>
       <title>The Slow Regard of Silent Things</title>
-      <link>https://vjacek.github.io/posts/2023-10-30-the-slow-regard-of-silent-things/</link>
+      <link>https://vjacek.github.io/2023-10-30-the-slow-regard-of-silent-things/</link>
       <pubDate>Sun, 05 Nov 2023 07:50:03 -0500</pubDate>
       
-      <guid>https://vjacek.github.io/posts/2023-10-30-the-slow-regard-of-silent-things/</guid>
+      <guid>https://vjacek.github.io/2023-10-30-the-slow-regard-of-silent-things/</guid>
       <description>The Slow Regard of Silent Things Patrick Rothfuss
 ★ ★ ☆ ☆ ☆
 I&amp;rsquo;m going to start listening to any book that opens with &amp;ldquo;You might not want to read this book.&amp;rdquo; The problem is that I really did want to read this book, or at least the story that I thought it would be great if it contained. I wanted to read about how Auri came to be who she is and live where she does, and why her view of the world is shaped the way it is.</description>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.101.0" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Automating My Mistakes &middot; Victor Jacek</title>
+  <meta name="description" content="" />
+
+  
+  <link type="text/css" rel="stylesheet" href="https://vjacek.github.io/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://vjacek.github.io/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://vjacek.github.io/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://vjacek.github.io/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="../favicon.png">
+
+  
+  
+</head>
+
+  <body class=" ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <p class="lead">
+         Victor Jacek 
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="https://vjacek.github.io/">Home</a></li>
+        <li><a href="https://github.com/vjacek/"> GitHub </a></li><li><a href="https://www.linkedin.com/in/victorjacek/"> LinkedIn </a></li><li><a href="https://www.instagram.com/victorjacek/"> Photography </a></li>
+      </ul>
+    </nav>
+
+    <p>
+      &copy; 2024. All rights reserved. 
+    </p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Automating My Mistakes</h1>
+  <time datetime=2024-02-14T23:00:00-0500 class="post-date">Wed, Feb 14, 2024</time>
+  <p><em>Originally published on 2021-3-19 as an internal tech blog post when I was the Tech Lead for Wayfair&rsquo;s Experimentation Platform team. Internal links will not work.</em></p>
+<h3 id="automating-my-mistakes">Automating my mistakes</h3>
+<p>While building the initial steps of the <a href="https://github.csnzoo.com/shared/gambit-task-queue">GTQ</a> project I found mysef stuck without a way to test code locally (at least without standing up a lot more project environment scaffolding), meaning that I had a slightly longer than ideal change/test loop:</p>
+<ul>
+<li>Update code</li>
+<li>Commit</li>
+<li>Push branch</li>
+<li>Wait for buildkite</li>
+<li>Deploy dev build to kubernetes</li>
+</ul>
+<p>In particular, the <code>wait for buildkite</code> step kept taking much longer than it should have because I would frequently forget to run <code>black</code>, or <code>flake8</code> or <code>isort</code>&hellip; This resulted in doubling the change/test loop whenever a trivial step got forgotten.</p>
+<p>I&rsquo;m of the opinon that generally not thinking about the formatting or style guides that my code needs to comply with is a <em>good thing</em>, leaving more mental focus for the features and functionality of the code rather than the particular syntax of this ticket&rsquo;s language. Since these kinds of things don&rsquo;t affect me as I&rsquo;m <em>writing</em> the code, but their standardization greatly helps the next person who needs to <em>read</em> the code, it&rsquo;s imperitive that we have tools that handle formatting and style linting for us. So we do, and they work great. Except when you don&rsquo;t use them.</p>
+<p>There&rsquo;s got to be a better way.</p>
+<p>That better way is called <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks">Git Hooks</a>; custom scripts that are executed when specific events happen. I spent an hour learning about how to set one of these up, and decided to use <code>pre-commit</code> so that I could fix my code right before committing it every time. (Goodbye commits with titles like &lsquo;ran prettier&rsquo;, &rsquo;linting&rsquo;, and &lsquo;fix formatting&rsquo;.)</p>
+<p>The actual hook itself is simple, even for a <a href="https://github.csnzoo.com/vjacek">bash n00b</a></p>
+<ul>
+<li>Save the names of all modified files</li>
+<li>Run each of the linting tools and save if they were successful or not (where successful is both &ldquo;nothing to fix&rdquo; and &ldquo;automatically fixed stuff&rdquo;)</li>
+<li>Re-stage all the formatted files so I don&rsquo;t have to remember the list manually</li>
+<li>Block the commit from happening if any of the tools failed</li>
+</ul>
+<pre tabindex="0"><code>#!/bin/sh
+
+echo &#34;Running git pre-commit hooks...&#34;
+
+staged_files=$(git diff --name-only --cached)
+
+# Run some basic automated tools that need to pass in buildkite
+echo &#34;&gt;&gt;&gt; black .&#34;
+black .
+black_exit_code=$?
+
+echo &#34;&gt;&gt;&gt; flake8 .&#34;
+flake8 .
+flake8_exit_code=$?
+
+echo &#34;&gt;&gt;&gt; isort .&#34;
+isort .
+isort_exit_code=$?
+
+# Re-stage all staged files as they may have been changed by tools
+for file in $staged_files; do
+  git add $file
+done
+
+# If all the tools completed successfully, continue commit
+# Else exit with error message and stop commit
+if [[ $black_exit_code == 0 &amp;&amp; $flake8_exit_code == 0 &amp;&amp; $isort_exit_code == 0 ]]
+then
+  echo &#34;Pre-commit hooks complete.&#34;
+  exit 0
+else
+  echo &#34;!! Pre-commit hooks failed. !!&#34;
+  echo &#34;black: $black_exit_code&#34;
+  echo &#34;flake8: $flake8_exit_code&#34;
+  echo &#34;isort: $isort_exit_code&#34;
+  exit 1
+fi
+</code></pre><p>While it was nice that each of these tools <a href="http://www.gnu.org/software/libc/manual/html_node/Exit-Status.html">returns 0 for success</a> like a good digital neighbor, different checks could be used, or branches could be implemented.</p>
+<p>Having a script that does <em>whatever you tell it to</em> during your standard workflow is like being given free superpowers.</p>
+
+</div>
+
+
+    </main>
+
+    
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y9QXKKR9SE"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-Y9QXKKR9SE', { 'anonymize_ip': false });
+}
+</script>
+
+    
+  </body>
+</html>
