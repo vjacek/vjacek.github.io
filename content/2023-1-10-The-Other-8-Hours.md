@@ -4,7 +4,7 @@ date: 2023-01-10T23:03:52-05:00
 draft: false
 ---
 
-In a quote that I can neither exactly remember nor find, in which some terribly heretical 19th-century socialist extolls the absurdity of limiting a work day to 8 hours, they also comment on the remaining 8 hours of leisure, rest, and relaxation time that each man has available at the end of the workday, and before the biologically required 8 hours of sleep. The main point is that every man is free to conduct himself exactly like the wealthy for those 8 hours. No matter the man's station at work, or the fact that he must work at all to provide for his family, in those remaining 8 hours, equality is governed by self-directed purpose. He might study the fine arts of literature and painting, attend theater, or study philosophy. In the "other 8" hours, there is no limit to the type of self-improvement a man is allowed to undertake.
+In a quote that I can neither exactly remember nor find [1], in which some terribly heretical 19th-century socialist extolls the absurdity of limiting a work day to 8 hours, they also comment on the remaining 8 hours of leisure, rest, and relaxation time that each man has available at the end of the workday, and before the biologically required 8 hours of sleep. The main point is that every man is free to conduct himself exactly like the wealthy for those 8 hours. No matter the man's station at work, or the fact that he must work at all to provide for his family, in those remaining 8 hours, equality is governed by self-directed purpose. He might study the fine arts of literature and painting, attend theater, or study philosophy. In the "other 8" hours, there is no limit to the type of self-improvement a man is allowed to undertake.
 
 Having achieved some amount of success in my chosen craft of software engineering, it becomes possible to commit less personal time to career advancement, and more time to a leisure pursit. Ideally, this non-work focused craft is a source of both interest and mental rejuvination that supports my career in it's contrast.
 
@@ -37,3 +37,5 @@ The clear simplification here is to do away with all but a trinary: bad, indiffe
 The easy part is now complete.
 
 The hard part is going out and doing it.
+
+[1] (2024-2-21) I found it! _How to Live on 24 Hours a Day_ by Arnold Bennett
