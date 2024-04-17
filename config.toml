@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Victor Jacek"
 theme = 'hyde'
 buildDrafts = 'false'
-publishDir = '.'
+publishDir = './posts'
 relativeURLs = 'true'
 [Params]
   description = 'Victor Jacek'
