@@ -2,100 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/2024-4-10-ghost-town-living/</loc>
+    <loc>https://vjacek.github.io/posts/2024-4-10-ghost-town-living/</loc>
     <lastmod>2024-04-16T22:23:22-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2024-4-2-everything-a-moonshot/</loc>
+    <loc>https://vjacek.github.io/posts/</loc>
+    <lastmod>2024-04-16T22:23:22-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/</loc>
+    <lastmod>2024-04-16T22:23:22-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/posts/2024-4-2-everything-a-moonshot/</loc>
     <lastmod>2024-04-02T23:30:14-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2024-2-18-the-sofware-developers-career-handbook/</loc>
+    <loc>https://vjacek.github.io/posts/2024-2-18-the-sofware-developers-career-handbook/</loc>
     <lastmod>2024-02-18T17:01:29-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2021-3-19-automating-my-mistakes/</loc>
+    <loc>https://vjacek.github.io/posts/2021-3-19-automating-my-mistakes/</loc>
     <lastmod>2024-02-14T23:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2021-1-26-python-memory-profiling/</loc>
+    <loc>https://vjacek.github.io/posts/2021-1-26-python-memory-profiling/</loc>
     <lastmod>2024-02-14T23:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2024-2-5-nightfall/</loc>
+    <loc>https://vjacek.github.io/posts/2024-2-5-nightfall/</loc>
     <lastmod>2024-02-05T23:43:47-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2024-1-25-2023-superlatives/</loc>
+    <loc>https://vjacek.github.io/posts/2024-1-25-2023-superlatives/</loc>
     <lastmod>2024-01-25T22:48:10-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-12-17-think-like-a-monk/</loc>
+    <loc>https://vjacek.github.io/posts/2023-12-17-think-like-a-monk/</loc>
     <lastmod>2023-12-20T22:58:06-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-12-12-the-left-hand-of-darkness/</loc>
+    <loc>https://vjacek.github.io/posts/2023-12-12-the-left-hand-of-darkness/</loc>
     <lastmod>2023-12-15T22:22:50-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-10-30-the-slow-regard-of-silent-things/</loc>
+    <loc>https://vjacek.github.io/posts/2023-10-30-the-slow-regard-of-silent-things/</loc>
     <lastmod>2023-11-05T07:50:03-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-10-11-the-wise-mans-fear/</loc>
+    <loc>https://vjacek.github.io/posts/2023-10-11-the-wise-mans-fear/</loc>
     <lastmod>2023-10-11T22:10:21-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-9-16-the-name-of-the-wind/</loc>
+    <loc>https://vjacek.github.io/posts/2023-9-16-the-name-of-the-wind/</loc>
     <lastmod>2023-09-25T21:15:44-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-8-30-good-omens/</loc>
+    <loc>https://vjacek.github.io/posts/2023-8-30-good-omens/</loc>
     <lastmod>2023-09-25T21:05:10-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-7-25-the-lost-metal/</loc>
+    <loc>https://vjacek.github.io/posts/2023-7-25-the-lost-metal/</loc>
     <lastmod>2023-09-13T22:11:27-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-7-1-red-team-blues/</loc>
+    <loc>https://vjacek.github.io/posts/2023-7-1-red-team-blues/</loc>
     <lastmod>2023-09-13T21:55:43-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-8-20-disney-engineered/</loc>
+    <loc>https://vjacek.github.io/posts/2023-8-20-disney-engineered/</loc>
     <lastmod>2023-09-03T20:52:04-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-6-12-leviathan-wakes/</loc>
+    <loc>https://vjacek.github.io/posts/2023-6-12-leviathan-wakes/</loc>
     <lastmod>2023-06-12T22:09:44-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-5-20-overpacking/</loc>
+    <loc>https://vjacek.github.io/posts/2023-5-20-overpacking/</loc>
     <lastmod>2023-05-20T22:41:49-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-4-30-jurassic-park/</loc>
+    <loc>https://vjacek.github.io/posts/2023-4-30-jurassic-park/</loc>
     <lastmod>2023-04-26T22:54:14-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-3-15-american-sniper/</loc>
+    <loc>https://vjacek.github.io/posts/2023-3-15-american-sniper/</loc>
     <lastmod>2023-04-26T22:53:58-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-2-30-the-deep-range/</loc>
+    <loc>https://vjacek.github.io/posts/2023-2-30-the-deep-range/</loc>
     <lastmod>2023-04-26T22:53:46-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-2-15-agency/</loc>
+    <loc>https://vjacek.github.io/posts/2023-2-15-agency/</loc>
     <lastmod>2023-02-15T13:05:55-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-2-5-the-secret-lives-of-color/</loc>
+    <loc>https://vjacek.github.io/posts/2023-2-5-the-secret-lives-of-color/</loc>
     <lastmod>2023-02-05T23:04:49-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-1-10-the-other-8-hours/</loc>
+    <loc>https://vjacek.github.io/posts/2023-1-10-the-other-8-hours/</loc>
     <lastmod>2023-01-10T23:03:52-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/tags/reading/</loc>
     <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2023-1-7-shadow-of-a-dark-queen/</loc>
+    <loc>https://vjacek.github.io/posts/2023-1-7-shadow-of-a-dark-queen/</loc>
     <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/tags/</loc>
     <lastmod>2023-01-07T22:42:50-05:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/</loc>
-    <lastmod>2023-01-07T22:42:50-05:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/2022-9-3-recent-reading/</loc>
+    <loc>https://vjacek.github.io/posts/2022-9-3-recent-reading/</loc>
     <lastmod>2022-09-03T08:22:00-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2022-8-6-recent-reading/</loc>
+    <loc>https://vjacek.github.io/posts/2022-8-6-recent-reading/</loc>
     <lastmod>2022-08-24T22:33:14-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2019-1-26-oneemojiofdata/</loc>
+    <loc>https://vjacek.github.io/posts/2019-1-26-oneemojiofdata/</loc>
     <lastmod>2019-02-26T01:02:03-04:05</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/2018-2-25-designinspirationfromagasstation/</loc>
+    <loc>https://vjacek.github.io/posts/2018-2-25-designinspirationfromagasstation/</loc>
     <lastmod>2018-02-25T01:02:03-04:05</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/categories/</loc>
