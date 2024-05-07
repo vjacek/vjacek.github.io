@@ -6,7 +6,7 @@ draft: false
 
 I've been reading a huge amount of SciFi recently, and wanted to try writing my own original story with a brand new idea, with an Asimov-style twist at the end. Enjoy -
 
-##### Something Exciting
+---
 
 Joe opened his lunchbox and let the metal lid clink down on the workbench. Peanut butter and jelly, again. Certainly better than he had eaten during much of his time at the university, but not quite as exciting as he might wish for. Just like the job itself, he supposed.
 
