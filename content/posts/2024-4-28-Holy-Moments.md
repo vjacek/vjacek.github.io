@@ -8,7 +8,7 @@ Matthew Kelly
 
 &#9733; &#9733; &#9733; &#9734; &#9734;
 
-This book's severe simplicity brings the readability down to, in my estimation, around an 8th grade level. The writing is pretty lackluster and boring, but the core messages are actually very solid. It just takes far too many pages to say too little about these ideas.
+This book's severe simplicity brings the readability down to, in my estimation, around an 6th grade level. The writing is pretty lackluster and boring, but the core messages are actually very solid. It just takes far too many pages to say too little about these ideas.
 
 "Holy Moments" are first defined as when someone chooses to take a Good action instead of a Bad.
 
