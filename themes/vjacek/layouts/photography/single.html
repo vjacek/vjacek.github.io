@@ -1,0 +1,29 @@
+{{ define "main" -}}
+<div class="post">
+
+  <div class='post-header'>
+    <h1>{{ .Title }}</h1>
+    <div class="post-date">
+      {{/*  <time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }}>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>  */}}
+      <time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }}>{{ .Date.Format "2006-1-2" }}</time>
+    </div>
+  </div>
+  
+  {{/*  There is usually no content for gallery pages  */}}
+  {{ .Content }}
+
+  {{ with .Resources.ByType "image" }}
+    {{ range . }}
+      
+      <div class="image">
+          <img src="{{ .RelPermalink }}" />
+      </div>
+
+    {{- end }}
+  {{- end }}
+
+
+
+</div>
+{{- end }}
+

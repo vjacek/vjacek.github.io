@@ -1,0 +1,41 @@
+{{ define "main" -}}
+
+<h3>Portfolio</h3>
+{{ range where site.Pages "Params.keywords" "intersect" (slice "portfolio") }}
+<ul class="posts">
+  <article class="post">
+    <div class="post-title">
+      <time class="list-date">{{ .Date.Format "2006-1-2" }}</time>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+
+    <div class="image-previews">
+      {{ with .Resources.ByType "image" }} {{ range first 3 . }}
+      <div class="image-small">
+        <img src="{{ .RelPermalink }}" />
+      </div>
+      {{- end }} {{- end }}
+    </div>
+  </article>
+</ul>
+{{ end }}
+
+<h3>Client work</h3>
+{{ range where site.Pages "Params.keywords" "intersect" (slice "client") }}
+<ul class="posts">
+  <article class="post">
+    <div class="post-title">
+      <time class="list-date">{{ .Date.Format "2006-1-2" }}</time>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+
+    <div class="image-previews">
+      {{ with .Resources.ByType "image" }} {{ range first 3 . }}
+      <div class="image-small">
+        <img src="{{ .RelPermalink }}" />
+      </div>
+      {{- end }} {{- end }}
+    </div>
+  </article>
+</ul>
+{{- end }} {{- end }}

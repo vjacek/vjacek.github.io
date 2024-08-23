@@ -1,17 +1,21 @@
 baseURL = "https://vjacek.github.io/"
 languageCode = "en-us"
 title = "Victor Jacek"
-theme = 'hyde'
+theme = 'vjacek'
 buildDrafts = 'false'
 publishDir = '.'
 relativeURLs = 'true'
+pluralizeListTitles = 'false'
 [Params]
-  description = 'Victor Jacek'
+  title = 'Victor Jacek'
 [Menus]
   main = [
-    {Name = "Photography", URL = "https://www.instagram.com/victorjacek/" },
+    
+  ]
+  links = [
     {Name = "GitHub", URL = "https://github.com/vjacek/" },
     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
+    {Name = "Instagram", URL = "https://www.instagram.com/victorjacekphotography/" },
   ]
 
 [services]

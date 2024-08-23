@@ -1,0 +1,20 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-title">
+      <a href="{{ .Site.BaseURL }}">{{ .Site.Params.title }}</a>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        {{ range .Site.Sections }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+
+        <hr />
+        {{ range .Site.Menus.links -}}
+        <li><a href="{{.URL}}" target="_blank"> {{ .Name }} </a></li>
+        {{- end }}
+      </ul>
+    </nav>
+  </div>
+</aside>
