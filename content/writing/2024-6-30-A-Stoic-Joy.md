@@ -1,6 +1,6 @@
 ---
 title: "A Stoic Joy"
-date: 2024-07-05T18:37:16-04:00
+date: 2024-06-30T18:37:16-04:00
 draft: false
 ---
 

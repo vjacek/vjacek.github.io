@@ -1,6 +1,6 @@
 ---
 title: "Krondor: The Betrayal"
-date: 2024-07-13T18:57:42-04:00
+date: 2024-06-30T18:57:42-04:00
 draft: false
 ---
 

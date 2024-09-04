@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vjacek.github.io/writing/2024-8-30-jimmy-and-the-crawler/</loc>
+    <lastmod>2024-08-30T23:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/</loc>
+    <lastmod>2024-08-30T23:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/writing/</loc>
+    <lastmod>2024-08-30T23:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/writing/2024-8-15-frugal-wizards-handbook/</loc>
+    <lastmod>2024-08-15T23:03:45-04:00</lastmod>
+  </url><url>
     <loc>https://vjacek.github.io/photography/portfolio/abandoned/</loc>
     <lastmod>2024-08-04T10:11:12+00:00</lastmod>
   </url><url>
@@ -9,9 +21,6 @@
     <lastmod>2024-08-04T10:11:12+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/</loc>
     <lastmod>2024-08-04T10:11:12+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography/portfolio/waterfalls/</loc>
@@ -23,20 +32,17 @@
     <loc>https://vjacek.github.io/writing/2024-7-30-mona-lisa-overdrive/</loc>
     <lastmod>2024-07-30T22:51:17-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/writing/</loc>
-    <lastmod>2024-07-30T22:51:17-04:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/writing/2024-7-20-krondor-tear-of-the-gods/</loc>
     <lastmod>2024-07-20T21:50:56-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2024-7-10-krondor-assassins/</loc>
-    <lastmod>2024-07-13T18:57:57-04:00</lastmod>
+    <lastmod>2024-07-10T18:57:57-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2024-6-30-krondor-betrayal/</loc>
-    <lastmod>2024-07-13T18:57:42-04:00</lastmod>
+    <lastmod>2024-06-30T18:57:42-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2024-6-30-a-stoic-joy/</loc>
-    <lastmod>2024-07-05T18:37:16-04:00</lastmod>
+    <lastmod>2024-06-30T18:37:16-04:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2024-6-18-the-ride-of-a-lifetime/</loc>
     <lastmod>2024-06-19T21:45:01-04:00</lastmod>
