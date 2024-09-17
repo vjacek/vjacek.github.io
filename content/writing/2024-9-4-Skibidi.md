@@ -1,7 +1,7 @@
 ---
 title: "Notes on the Evolution of Language"
 date: 2024-09-04T21:10:50-04:00
-draft: true
+draft: false
 ---
 
 There's a whole class of internet-based complaints about the current language used by, I think, middle schoolers of the moment. These complaints center around both newly invented words and existing words that have been assigned new meanings, interchangable with their old forms. The small-minded complainers take their outrage over these "brainrot" words to the internet, while the rest of us, if you've even heard a Gen-Alpha talk lately (I certainly haven't), simply ignore them in the normal time-tested tradition.
