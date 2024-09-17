@@ -324,15 +324,19 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 6rem;
 }
 
+.date {
+  margin-bottom: 2rem;
+}
+
 /* Meta data line below post title */
 .post-date {
   /* display: block; */
   margin-top: -2rem;
   /* margin-bottom: 1rem; */
   font-size: 100%;
-  margin-right: 2rem;
+  /* margin-right: 2rem; */
   color: #757575;
-  margin-left: 26rem;
+  /* margin-left: 26rem; */
 }
 
 .list-date {
