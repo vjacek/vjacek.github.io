@@ -11,3 +11,5 @@ It's not like driving where you're warm and comfortable and insulated from the r
 It's easy to feel inconvenienced or annoyed that you'll be slightly wet, but rain is also an opportunity to be thankful when lesser minds become upset. Any time a mind chooses a virtuous thought over a negative is proof of it's superiority.
 
 Of all the worlds we've discovered so far, ours is the only one with rain. Water rain. How thankful should we be that the Earth rains water rather than Venus' sulfuric acid, or Mars' carbon dioxide snow. And then how thankful should we be that water itself is the universal solvent, and not some awfuly caustic molecule like benzene or ozone.
+
+I choose to enjoy walking to work in the rain.
