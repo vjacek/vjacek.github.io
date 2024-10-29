@@ -1,22 +1,13 @@
 {{ define "main" -}}
 
-<div>// TODO: profile and introduction</div>
+<div style="display: flex">
+  <div>
+    <img src="/profile_2022_circle.png" width="300px" />
+  </div>
+  <div style="width: 400px; margin-top: 100px; margin-left: 100px">
+    If you're interested in a few too many opinions, some fairly decent
+    photographs, and learning something every once in a while - keep reading.
+  </div>
+</div>
 
-<!-- <div class="posts"> -->
-
-<!-- <div>
-    {{ range .Site.Sections }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ end }}
-  </div> -->
-
-<!-- {{ range .Site.RegularPages -}}
-  <article class="post">
-    <div class="post-title">
-      <time class="post-date">{{ .Date.Format "2006-01-01" }}</time>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </div>
-  </article>
-  {{- end }} -->
-<!-- </div> -->
 {{- end }}

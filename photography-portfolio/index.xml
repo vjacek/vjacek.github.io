@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography-portfolio on Victor Jacek</title>
+    <link>https://vjacek.github.io/photography-portfolio/</link>
+    <description>Recent content in Photography-portfolio on Victor Jacek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://vjacek.github.io/photography-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abandoned</title>
+      <link>https://vjacek.github.io/photography-portfolio/abandoned/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/photography-portfolio/abandoned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cityscapes</title>
+      <link>https://vjacek.github.io/photography-portfolio/cityscapes/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/photography-portfolio/cityscapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscapes</title>
+      <link>https://vjacek.github.io/photography-portfolio/landscapes/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/photography-portfolio/landscapes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

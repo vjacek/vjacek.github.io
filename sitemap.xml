@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/photography-portfolio/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/book-reviews/2024-10-2-atomic-habits/</loc>
     <lastmod>2024-10-11T19:44:32-04:00</lastmod>
   </url><url>
@@ -35,26 +32,23 @@
     <loc>https://vjacek.github.io/book-reviews/2024-8-15-frugal-wizards-handbook/</loc>
     <lastmod>2024-08-15T23:03:45-04:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/photography/portfolio/abandoned/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/portfolio/landscape/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/photography-clients/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/portfolio/waterfalls/</loc>
     <lastmod>2024-08-04T10:11:12+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography-clients/2024-8-4-railers-auditions/</loc>
     <lastmod>2024-08-04T10:11:12+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2024-8-4-railers-auditions/</loc>
-    <lastmod>2024-08-04T10:11:12+00:00</lastmod>
+    <loc>https://vjacek.github.io/photography-portfolio/abandoned/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/photography-portfolio/cityscapes/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/photography-portfolio/landscapes/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/photography-portfolio/</loc>
+    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2024-7-30-mona-lisa-overdrive/</loc>
     <lastmod>2024-07-30T22:51:17-04:00</lastmod>
@@ -101,22 +95,13 @@
     <loc>https://vjacek.github.io/photography-clients/2024-3-28-pirates-game/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2024-3-28-pirates-game/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/photography-clients/2024-2-23-pirates-photo-day/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2024-2-23-pirates-photo-day/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2024-2-18-the-sofware-developers-career-handbook/</loc>
     <lastmod>2024-02-18T17:01:29-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography-clients/2024-2-18-pirates-hotworx/</loc>
-    <lastmod>2024-02-18T10:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2024-2-18-pirates-hotworx/</loc>
     <lastmod>2024-02-18T10:11:12+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2021-3-19-automating-my-mistakes/</loc>
@@ -137,25 +122,16 @@
     <loc>https://vjacek.github.io/photography-clients/2023-12-17-pirates-auditions/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2023-12-17-pirates-auditions/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/book-reviews/2023-12-12-the-left-hand-of-darkness/</loc>
     <lastmod>2023-12-15T22:22:50-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography-clients/2023-11-19-pirates-workshop/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2023-11-19-pirates-workshop/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/book-reviews/2023-10-30-the-slow-regard-of-silent-things/</loc>
     <lastmod>2023-11-05T07:50:03-05:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/photography-clients/2023-10-23-liam-senior-photos/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/clients/2023-10-23-liam-senior-photos/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2023-10-11-the-wise-mans-fear/</loc>
@@ -214,9 +190,6 @@
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2022-8-6-recent-reading/</loc>
     <lastmod>2022-08-24T22:33:14-04:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/photography/portfolio/boston/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/2019-1-26-oneemojiofdata/</loc>
     <lastmod>2019-02-26T01:02:03-04:05</lastmod>

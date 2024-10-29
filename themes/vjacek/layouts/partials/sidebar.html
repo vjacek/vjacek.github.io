@@ -7,7 +7,11 @@
     <nav>
       <ul class="sidebar-nav">
         {{ range .Site.Sections }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        <li>
+          <a href="{{ .RelPermalink }}"
+            >{{ title (replace .LinkTitle "-" " ") }}</a
+          >
+        </li>
         {{ end }}
 
         <hr />

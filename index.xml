@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 19:44:32 -0400</lastBuildDate><atom:link href="https://vjacek.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography Portfolio</title>
-      <link>https://vjacek.github.io/photography-portfolio/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography-portfolio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Atomic Habits</title>
       <link>https://vjacek.github.io/book-reviews/2024-10-2-atomic-habits/</link>
       <pubDate>Fri, 11 Oct 2024 19:44:32 -0400</pubDate>
@@ -93,33 +84,6 @@ This book generally stinks. One of the large fatal flaws is usually a strength f
     </item>
     
     <item>
-      <title>Abandoned</title>
-      <link>https://vjacek.github.io/photography/portfolio/abandoned/</link>
-      <pubDate>Sun, 04 Aug 2024 10:11:12 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/portfolio/abandoned/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Landscape</title>
-      <link>https://vjacek.github.io/photography/portfolio/landscape/</link>
-      <pubDate>Sun, 04 Aug 2024 10:11:12 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/portfolio/landscape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Waterfalls</title>
-      <link>https://vjacek.github.io/photography/portfolio/waterfalls/</link>
-      <pubDate>Sun, 04 Aug 2024 10:11:12 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/portfolio/waterfalls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Worcester Railers Auditions</title>
       <link>https://vjacek.github.io/photography-clients/2024-8-4-railers-auditions/</link>
       <pubDate>Sun, 04 Aug 2024 10:11:12 +0000</pubDate>
@@ -129,11 +93,29 @@ This book generally stinks. One of the large fatal flaws is usually a strength f
     </item>
     
     <item>
-      <title>Worcester Railers Auditions</title>
-      <link>https://vjacek.github.io/photography/clients/2024-8-4-railers-auditions/</link>
-      <pubDate>Sun, 04 Aug 2024 10:11:12 +0000</pubDate>
+      <title>Abandoned</title>
+      <link>https://vjacek.github.io/photography-portfolio/abandoned/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vjacek.github.io/photography/clients/2024-8-4-railers-auditions/</guid>
+      <guid>https://vjacek.github.io/photography-portfolio/abandoned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cityscapes</title>
+      <link>https://vjacek.github.io/photography-portfolio/cityscapes/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/photography-portfolio/cityscapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscapes</title>
+      <link>https://vjacek.github.io/photography-portfolio/landscapes/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/photography-portfolio/landscapes/</guid>
       <description></description>
     </item>
     
@@ -305,29 +287,11 @@ Nobody remembers anything small, so why do we bother? Small changes rarely have 
     </item>
     
     <item>
-      <title>Pirates Game 3/28</title>
-      <link>https://vjacek.github.io/photography/clients/2024-3-28-pirates-game/</link>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2024-3-28-pirates-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pirates Photo Day</title>
       <link>https://vjacek.github.io/photography-clients/2024-2-23-pirates-photo-day/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://vjacek.github.io/photography-clients/2024-2-23-pirates-photo-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pirates Photo Day</title>
-      <link>https://vjacek.github.io/photography/clients/2024-2-23-pirates-photo-day/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2024-2-23-pirates-photo-day/</guid>
       <description></description>
     </item>
     
@@ -348,15 +312,6 @@ This book suffers from an unfortunate case of being a product of a very specific
       <pubDate>Sun, 18 Feb 2024 10:11:12 +0000</pubDate>
       
       <guid>https://vjacek.github.io/photography-clients/2024-2-18-pirates-hotworx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pirates at Northborough Hotworx</title>
-      <link>https://vjacek.github.io/photography/clients/2024-2-18-pirates-hotworx/</link>
-      <pubDate>Sun, 18 Feb 2024 10:11:12 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2024-2-18-pirates-hotworx/</guid>
       <description></description>
     </item>
     
@@ -424,15 +379,6 @@ It sits at the intersection of productive self-improvement and philosophy, so os
     </item>
     
     <item>
-      <title>Pirates Auditions</title>
-      <link>https://vjacek.github.io/photography/clients/2023-12-17-pirates-auditions/</link>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2023-12-17-pirates-auditions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Left Hand of Darkness</title>
       <link>https://vjacek.github.io/book-reviews/2023-12-12-the-left-hand-of-darkness/</link>
       <pubDate>Fri, 15 Dec 2023 22:22:50 -0500</pubDate>
@@ -453,15 +399,6 @@ This book really sucks. Mostly for the completely wasted opportunities of fairly
     </item>
     
     <item>
-      <title>Pirates Workshop</title>
-      <link>https://vjacek.github.io/photography/clients/2023-11-19-pirates-workshop/</link>
-      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2023-11-19-pirates-workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Slow Regard of Silent Things</title>
       <link>https://vjacek.github.io/book-reviews/2023-10-30-the-slow-regard-of-silent-things/</link>
       <pubDate>Sun, 05 Nov 2023 07:50:03 -0500</pubDate>
@@ -478,15 +415,6 @@ I&amp;rsquo;m going to start listening to any book that opens with &amp;ldquo;Yo
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vjacek.github.io/photography-clients/2023-10-23-liam-senior-photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Senior Photos: Liam</title>
-      <link>https://vjacek.github.io/photography/clients/2023-10-23-liam-senior-photos/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/clients/2023-10-23-liam-senior-photos/</guid>
       <description></description>
     </item>
     
@@ -677,15 +605,6 @@ You could equally hand this book to a new reader of high fantasy or to a longtim
       
       <guid>https://vjacek.github.io/book-reviews/2022-8-6-recent-reading/</guid>
       <description>As I sit down to write this, logging into Goodreads with a Facebook account hasn&amp;rsquo;t worked for 12 days. That seems like a fairly insane timeframe for an outage of this magnitude. But it also shows something else important. Amazon doesn&amp;rsquo;t care about Goodreads. Although that&amp;rsquo;s probably been obvious to the site&amp;rsquo;s users for some time, this puts a number on how low the priority stack ranking goes. After all, what percetage of Amazon&amp;rsquo;s business is books anymore?</description>
-    </item>
-    
-    <item>
-      <title>Boston</title>
-      <link>https://vjacek.github.io/photography/portfolio/boston/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjacek.github.io/photography/portfolio/boston/</guid>
-      <description></description>
     </item>
     
     <item>
