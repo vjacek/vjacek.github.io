@@ -9,13 +9,14 @@ pluralizeListTitles = 'false'
 [Params]
   title = 'Victor Jacek'
 [Menus]
-  main = [
-    
+  projects = [
+    {Name = "1headline", URL = "http://1headline.com" },
   ]
   links = [
     {Name = "GitHub", URL = "https://github.com/vjacek/" },
     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
-    {Name = "Instagram", URL = "https://www.instagram.com/victorjacekphotography/" },
+    {Name = "Photography", URL = "https://www.instagram.com/victorjacekphotography/" },
+    
   ]
 
 [services]

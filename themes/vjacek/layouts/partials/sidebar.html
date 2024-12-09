@@ -15,6 +15,13 @@
         {{ end }}
 
         <hr />
+
+        {{ range .Site.Menus.projects -}}
+        <li><a href="{{.URL}}" target="_blank"> {{ .Name }} </a></li>
+        {{- end }}
+
+        <hr />
+
         {{ range .Site.Menus.links -}}
         <li><a href="{{.URL}}" target="_blank"> {{ .Name }} </a></li>
         {{- end }}
