@@ -1,6 +1,6 @@
 ---
 title: "Yumi and the Nightmare Painter"
-date: 2025-1-10
+date: 2025-01-10
 draft: false
 ---
 
