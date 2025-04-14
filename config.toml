@@ -15,7 +15,8 @@ pluralizeListTitles = 'false'
   links = [
     {Name = "GitHub", URL = "https://github.com/vjacek/" },
     {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
-    {Name = "Photography", URL = "https://www.instagram.com/victorjacekphotography/" },
+    {Name = "Instagram", URL = "https://www.instagram.com/victorjacekphotography/" },
+    {Name = "Photography Portfolio", URL = "https://victorjacekphotography.com/" }
     
   ]
 
