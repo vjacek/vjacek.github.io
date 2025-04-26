@@ -1,6 +1,6 @@
 ---
 title: "Zen and the Art of Motorcycle Maintenance"
-date: 2025-4-20
+date: 2025-04-20
 draft: false
 ---
 
