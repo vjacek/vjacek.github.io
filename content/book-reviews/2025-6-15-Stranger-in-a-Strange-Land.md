@@ -40,6 +40,8 @@ As Jubal himself is acting as a flapper for the Man from Mars, he drops a fantas
 
 Philosophunculist: A minor or insignificant philosopher; someone who claims philosophical expertise that they do not possess.
 
+A term so rare that Google returns 47 results, it's not present at all in [Google's Ngram Viewer](https://books.google.com/ngrams/), and Wikipedia's article contains an expanded (thanks to me), [4 citations of usage](https://en.wiktionary.org/wiki/philosophunculist).
+
 In trying to reason about the existence of God, or the need for religion, a Jubal delivers a wonderful monologue, the kind of thing that sci-fi excels at, that keeps you thinking. In part:
 
 > The universe was a silly place at best... But the least likely explanation for it was the no-explanation of random chance... Random chance was not a sufficient explanation of the universe - random chance was not sufficient to explain random chance; the pot could not hold itself.
