@@ -1,7 +1,7 @@
 ---
 title: "I Fixed Temperature"
 date: 2025-07-25
-draft: true
+draft: false
 ---
 
 All 3 temperature systems [1], [2] have some major problems:

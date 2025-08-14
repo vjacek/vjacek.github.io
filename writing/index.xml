@@ -6,7 +6,20 @@
     <description>Recent content in Writing on Victor Jacek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://vjacek.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://vjacek.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Fixed Temperature</title>
+      <link>https://vjacek.github.io/writing/2025-7-25-i-fixed-temperature/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://vjacek.github.io/writing/2025-7-25-i-fixed-temperature/</guid>
+      <description>All 3 temperature systems [1], [2] have some major problems:
+Kelvin
+Astronomically, the Kelvin scale makes a lot of sense. Given the vast general emptiness of space, you might have a pretty reasonable need to use the low end of the spectrum, and absolute zero is a wonderful place to start. But for temperatures that humans might experience, it&amp;rsquo;s pretty far off from the Most Useful Numbers (0-100).
+Celcius
+As we move to Celcius, we lose absolute truth at absolute zero, and make the critical improvement of becoming based on water, the Most Important Molecule.</description>
+    </item>
+    
     <item>
       <title>The iPhone Is Unacceptable</title>
       <link>https://vjacek.github.io/writing/2025-1-19-the-iphone-is-unacceptable/</link>
