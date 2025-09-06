@@ -8,9 +8,9 @@ Robert A. Heinlein
 
 &#9733; &#9733; &#9733; &#9733; &#9733;
 
-Heinlein really had it it for democracy, which is great because democracy sucks. Here in 2025 it's become abundantly clear that democracy has failed in the United States, and we've now got a front row seat to the slow but inevitable downfall. Heinlein absolutely nails two of the most important reasons why democracy our form is doomed:
+Heinlein really had it it for democracy, which is great because democracy sucks. Here in 2025 it's become abundantly clear that democracy has failed in the United States, and we've now got a front row seat to the slow but inevitable downfall. Heinlein absolutely nails two of the most important reasons why democracy in our form is doomed:
 
-- We ask the impossible from our government and get upset when it doesnt happen.
+- We ask the impossible from our government and get upset when it doesn't happen.
 - Voters must be willing to put "the group" ahead of themselves. Which is impossible in heterogenous a group this large.
 
 I remember being assigned to argue for Federalism in A.P. U.S. History class in high school. At the time it seemed to make sense, unifying the States would give the country the ability to defend itself both militarily and economically from much more established nations, while not sapping it's own strength by punative disagreements with it's closest neighbors (the other states). In 2025, the fact that I'm burdoned by high taxes in Massachusetts which are federally redistributed to other states makes much less sense. A federal goverment burdoned by the mission of writing laws for such a hugely diverse nation has little chance of success. Maybe it would indeed be better for those of similar ideals to congregate together and govern themselves; we'd get exactly what we ask for, and potentially what we deserve.
@@ -27,6 +27,6 @@ And others:
 
 > I have never been able to see how a thirty-year-old moron can vote more wisely than a fifteen-year-old genius... but that was the age of the 'divine right of the common man.' Never mind, they paid for their folly.
 
-> Since soverign franchise is the ultimate in human authority, we insure that all who weild it accept the ultimate in social responsibility - we require each person who wishes to exert control over the state to wager his own life - and lose it, if need be - to save the life of the state. The maximum responsibility a human can accept is thus equated to the ultimate authority a human can exert.
+> Since soverign franchise is the ultimate in human authority, we insure that all who wield it accept the ultimate in social responsibility - we require each person who wishes to exert control over the state to wager his own life - and lose it, if need be - to save the life of the state. The maximum responsibility a human can accept is thus equated to the ultimate authority a human can exert.
 
-Not only are our current democratic leaders not required to wager their lives to exert control over us, they are allow to reward themselves for controlling the state. Quite the perverse incentive.
+Not only are our current democratic leaders not required to wager their lives to exert control over us, they are allowed to reward themselves for controlling the state. Quite the perverse incentive.
