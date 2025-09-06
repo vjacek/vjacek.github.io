@@ -1,6 +1,6 @@
 ---
 title: "Starship Troopers"
-date: 2025-09-05
+date: 2025-08-10
 draft: false
 ---
 

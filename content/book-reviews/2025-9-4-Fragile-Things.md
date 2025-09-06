@@ -1,6 +1,6 @@
 ---
 title: "Fragile Things"
-date: 2025-09-05
+date: 2025-09-04
 draft: false
 ---
 
