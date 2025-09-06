@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/writing/2025-7-25-i-fixed-temperature/</loc>
-    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <loc>https://vjacek.github.io/book-reviews/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-9-4-fragile-things/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-8-28-solaris/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-8-10-starship-troopers/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/writing/2025-7-25-i-fixed-temperature/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/writing/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/book-reviews/</loc>
-    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vjacek.github.io/book-reviews/2025-7-15-surely-youre-joking-mr-feynman/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-7-4-the-art-of-invisibility/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2025-6-30-every-tool-a-hammer/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
