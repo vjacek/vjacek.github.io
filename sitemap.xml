@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vjacek.github.io/book-reviews/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <loc>https://vjacek.github.io/book-reviews/2025-9-30-altered-carbon/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vjacek.github.io/book-reviews/2025-9-4-fragile-things/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    <loc>https://vjacek.github.io/book-reviews/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-9-4-fragile-things/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2025-8-28-solaris/</loc>
