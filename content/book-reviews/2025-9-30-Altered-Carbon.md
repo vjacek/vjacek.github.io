@@ -16,7 +16,7 @@ The final straw for me was when the protagonist uses a "termite grenade". Yes, a
 
 I only made it about a hundred pages into the book, but here are the other straws that burdoned my poor literary camel until it's unfortunate demise:
 
-- There are far too many references to proper nouns - both novel ones (in severe violation of my [Invented Terms Limit](https://vjacek.github.io/book-reviews/2022-9-3-enders-game/)) and ones that we recognize as commonplace today but which would be _weird_ if they surived many hundreds of years into the future of multiplanetary civilization.
+- There are far too many references to proper nouns - both novel ones (in severe violation of my [Invented Terms Limit]({{< ref "2022-9-3-Enders-Game.md" >}})) and ones that we recognize as commonplace today but which would be _weird_ if they surived many hundreds of years into the future of multiplanetary civilization.
 
 - "Kodakristal" is a pocket hologram. Ohh look at me I'm so terribly clever. Shut up.
 

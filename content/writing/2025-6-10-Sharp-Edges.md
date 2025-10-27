@@ -29,6 +29,7 @@ I've found a few other sharp edges in my life:
 - The opposite of Alton Brown's infamous kitchen unitaskers, workshop tools that perform a single function perfectly are a joy to use.
 - Programming in general, and the Linux command line. One of the steepest learning curves I've ever expeerienced, but once it _clicks_... It's a pure mental superpower.
 - A literal pocketknfe. There are an amazing number of scenarios where it's inappropriate to pull out a knife to solve a problem, but an order of magnitude more where it's useful.
+- Wearing shorts well into October or November. "Aren't you cold?" Yes, of course I'm cold, and it's wonderful to feel the seasons!
 
 I'm completely open to dissenting opinions, but only after you launch a Mustang from a stoplight, and then drive it up the California hills to Griffith Observatory.
 
