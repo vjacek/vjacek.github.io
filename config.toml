@@ -3,21 +3,20 @@ languageCode = "en-us"
 title = "Victor Jacek"
 theme = 'vjacek'
 buildDrafts = 'false'
-publishDir = '.'
+publishDir = 'build'
 relativeURLs = 'true'
 pluralizeListTitles = 'false'
 [Params]
   title = 'Victor Jacek'
 [Menus]
   projects = [
-    {Name = "1headline", URL = "http://1headline.com" },
+    {Name = "Photography Portfolio", URL = "https://victorjacekphotography.com/", weight = 1 },
+    {Name = "1headline", URL = "http://1headline.com", weight = 2 },
   ]
   links = [
-    {Name = "GitHub", URL = "https://github.com/vjacek/" },
-    {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/" },
-    {Name = "Instagram", URL = "https://www.instagram.com/victorjacekphotography/" },
-    {Name = "Photography Portfolio", URL = "https://victorjacekphotography.com/" }
-    
+    {Name = "GitHub", URL = "https://github.com/vjacek/", weight = 1 },
+    {Name = "LinkedIn", URL = "https://www.linkedin.com/in/victorjacek/", weight = 2 },
+    {Name = "Instagram", URL = "https://www.instagram.com/victorjacekphotography/", weight = 3 },
   ]
 
 [services]
