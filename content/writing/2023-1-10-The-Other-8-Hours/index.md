@@ -16,7 +16,7 @@ And before it's possible to create a menaningful spreadsheet, it's of course nec
 
 For illustration, we start now with the completed result:
 
-![/2023-1-10-hobby-calculator.png](/2023-1-10-hobby-calculator.png)
+![2023-1-10-hobby-calculator.png](2023-1-10-hobby-calculator.png)
 
 I first made a list of the most interesting hobbies that I've previously expolored (columns), and that I could reasonably imagine centering all further interests upon. Next, another list was made of all the properties that I'm personally looking for in an ideal activity (rows). The critical piece of the calculation is then weighting each property by it's importance to me (multiplier). I picked a single property to define as weight `1` of importance, in this case physical activity because it's the most different property possible from my day job at a desk. Which property is chosen as `1` doesn't really matter, but then all other properties are evaluated relative to it, so ideally a property of medium importance makes for the easiest comparisons.
 

@@ -37,7 +37,7 @@ For readers in the United States, this table based on some selected Fahrenheit v
 
 My home grafana dashboard is another fun way of viewing the differences. Both scales show the same high resolution 30-ish degree range, but `V`s are based on physics instead of random local conditions.
 
-![Grafana](/2025-7-25-I-Fixed-Temperature-Screenshot-1.png)
+![Grafana](2025-7-25-I-Fixed-Temperature-Screenshot-1.png)
 
 1. I'm absolutely not going to even justify the insanity of the Rankine scale by including it in the discussion.
 2. There appear to be a few other temperature scales as well: Delise, Newton, Reaumur, and Romer. Although historically interesting, they were not purposefully designed but a byproduct of specific measurement techniques.

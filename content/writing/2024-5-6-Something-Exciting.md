@@ -4,7 +4,7 @@ date: 2024-05-06T22:24:21-04:00
 draft: false
 ---
 
-I've been reading a huge amount of SciFi recently, and wanted to try writing my own original story with a brand new idea, with an Asimov-style twist at the end.
+I've been reading a huge amount of SciFi recently, and wanted to try writing my own original story with a brand new idea and an Asimov-style twist at the end.
 
 Enjoy -
 

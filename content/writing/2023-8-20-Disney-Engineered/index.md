@@ -4,7 +4,7 @@ date: 2023-09-03T20:52:04-04:00
 draft: false
 ---
 
-![/2023-8-20-Disney-Engineered-Pic1.jpeg](/2023-8-20-Disney-Engineered-Pic1.jpeg)
+![2023-8-20-Disney-Engineered-Pic1.jpeg](2023-8-20-Disney-Engineered-Pic1.jpeg)
 
 Besides world-class entertainment, immersive story-driven rides, and fine dining where you can eat filet mignon 3 times a day [1], the engineered efficiency of Disney World is absolutely top-tier. That makes it all the more fun to find situations that can be improved. Our most recent trip in August 2023 provided a few:
 

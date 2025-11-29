@@ -9,10 +9,6 @@ url: "/"
 
 ### Hi, I'm Victor.
 
-To Do:
-
-- move all static resources into page folders
-
 At work, I'm a Staff Software Engineer and have deep experience designing and building complex systems such as monitored 24/7 outdoor security, an all-new point of sale system with intelligent recommendations, an internal experimentation platform, and energy demand queueing. Besides building computer systems, I enjoy building teams and helping people devlop their skills and careers.
 
 While the deliverables across market segments differ, the common thread is that everyone needs software, and being part of a team that is able to design and execute excellent software is a huge competitive advantage in the marketplace. But more importantly can help make a lot of people's lives better.

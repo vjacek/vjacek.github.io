@@ -6,18 +6,7 @@
 
     <nav>
       <ul class="sidebar-nav">
-        without filter {{ range .Site.Sections.ByTitle -}}
-        <li>
-          <a href="{{ .RelPermalink }}"
-            >{{ title (replace .LinkTitle "-" " ") }}</a
-          >
-        </li>
-        {{ end }}
-
-        <hr />
-
-        filtered out home section {{ range (where .Site.Sections "Title" "<>"
-        "Home").ByTitle -}}
+        {{ range .Site.Sections.ByTitle -}}
         <li>
           <a href="{{ .RelPermalink }}"
             >{{ title (replace .LinkTitle "-" " ") }}</a
