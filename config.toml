@@ -6,8 +6,13 @@ buildDrafts = 'false'
 publishDir = 'build'
 relativeURLs = 'true'
 pluralizeListTitles = 'false'
+
+[markup.goldmark.renderer]
+unsafe = true
+
 [Params]
   title = 'Victor Jacek'
+
 [Menus]
   projects = [
     {Name = "Photography Portfolio", URL = "https://victorjacekphotography.com/", weight = 1 },
