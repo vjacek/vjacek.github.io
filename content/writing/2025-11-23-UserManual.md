@@ -1,7 +1,7 @@
 ---
 title: "User Manual"
 date: 2025-11-23
-draft: true
+draft: false
 ---
 
 The company I work for was recently sold from one private equity group to another private equity group. While I'm sure there are significant changes coming, the new executives have started their tenure not by handing down directives, but by listening and gathering input. One of the ways they are doing this was to ask the Leadership Team (Senior Directors and Distingished Engineers) to complete a "User Manual" exercise. Two of those people in my group were kind enough to share their own manuals and inspire this one.

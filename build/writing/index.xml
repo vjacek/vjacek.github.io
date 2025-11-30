@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Victor Jacek</title>
+    <link>http://localhost:1313/writing/</link>
+    <description>Recent content in Writing on Victor Jacek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User Manual</title>
+      <link>http://localhost:1313/writing/2025-11-23-usermanual/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/2025-11-23-usermanual/</guid>
+      <description>&lt;p&gt;The company I work for was recently sold from one private equity group to another private equity group. While I&amp;rsquo;m sure there are significant changes coming, the new executives have started their tenure not by handing down directives, but by listening and gathering input. One of the ways they are doing this was to ask the Leadership Team (Senior Directors and Distingished Engineers) to complete a &amp;ldquo;User Manual&amp;rdquo; exercise. Two of those people in my group were kind enough to share their own manuals and inspire this one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Fixed Temperature</title>
+      <link>http://localhost:1313/writing/2025-7-25-i-fixed-temperature/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/2025-7-25-i-fixed-temperature/</guid>
+      <description>&lt;p&gt;All 3 temperature systems [1], [2] have some major problems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kelvin&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Astronomically, the Kelvin scale makes a lot of sense. Given the vast general emptiness of space, you might have a pretty reasonable need to use the low end of the spectrum, and absolute zero is a wonderful place to start. But for temperatures that humans might experience, it&amp;rsquo;s pretty far off from the Most Useful Numbers (0-100).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Celcius&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As we move to Celcius, we lose absolute truth at absolute zero, and make the critical improvement of becoming based on water, the Most Important Molecule. For humans, nothing could make more sense than basing our discussion and measurements around water, upon which our existence is already naturally based. The problem is that we don&amp;rsquo;t get to use very much of the scale in everyday life. You might be able to experience the range from -25C to 45C in a lifetime, but that&amp;rsquo;s only a total difference of 70 degrees. In common usage, 10C would be considered cool, and 27C warm. This gives an absolutely pathetic resolution of 17 degrees! The difference of a degree is so large that decimal points become common. This silliness must be another major reason the United States has not largely adopted Celcius.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sharp Edges</title>
+      <link>http://localhost:1313/writing/2025-6-10-sharp-edges/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/2025-6-10-sharp-edges/</guid>
+      <description>&lt;p&gt;I think the sharp edges in life are actually the best parts. Sharp edges pull our interest, hold our thoughts, give us excitement, and discriminate between the mundane and the excellent.&lt;/p&gt;&#xA;&lt;p&gt;Lucy and I just returned from a trip to Disneyland in California. Unlike Disney World in Florida, Disneyland is in the middle of a city (Anaheim, a suburb of Los Angleles and second-best known for the Mighty Ducks). This means that in addition to the park, there&amp;rsquo;s a good number of nearby attractions easily accessible by car. We decided to rent a car for a few days of the trip, and were able to take it to Huntington Beach (AKA Surf City, USA), Newport Beach, the Hollywood walk of Fame (think Times Square, but much dumpier), Disney Studios in Burbank, the Carousel at Griffith Park, and the wonderfully interesting Griffith Observatory. It&amp;rsquo;s view overlooking both the city of LA and the Hollywood Sign make it one of &lt;em&gt;the&lt;/em&gt; establishing shots if you&amp;rsquo;ve ever watched a TV show or movie set in LA. And for fans of &lt;em&gt;The Terminator&lt;/em&gt;, its where the T-800 first arrives in Sarah Connors&amp;rsquo; timeline.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The iPhone Is Unacceptable</title>
+      <link>http://localhost:1313/writing/2025-1-19-the-iphone-is-unacceptable/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/2025-1-19-the-iphone-is-unacceptable/</guid>
+      <description>&lt;p&gt;As I do every 4-5 years, I got iPhone-curious today, and decided to write a letter to my future self for when it happens next time. Of course, Apple makes the best hardware, the best camera, and the best CPUs on the phone market today, but despite all those advantages, the current (16) iPhone is simply unacceptable for daily use.&lt;/p&gt;&#xA;&lt;p&gt;For such refined hardware, the human-ignoring design of the software is incredibly disappointing. I don&amp;rsquo;t think that Android gets all of these just right either, but it provides &lt;em&gt;options&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don&#39;t Compete with the Internet</title>
+      <link>http://localhost:1313/writing/2025-1-3-dont-compete-with-the-internet/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/2025-1-3-dont-compete-with-the-internet/</guid>
+      <description>&lt;p&gt;Everywhere we turn, we are flooded with content to consume - your phone buzzes with emails, texts, and notifications from every app you&amp;rsquo;ve ever installed. All this content is created by armies owned by the dopamine overlords, and those armies are willing to go to battle for their likes, shares, and subscribers. Like anyone who finds themselves in power, their number 1 priority is always staying in power. For them, this is easier than ever, so long as they continue to appease the almighty algorithm. With their own armies of followers already in hand, they can create the most useless content imaginable and reap the reward of your watchtime.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Walking to Work in the Rain</title>
+      <link>http://localhost:1313/writing/2024-9-28-walking-to-work-in-the-rain/</link>
+      <pubDate>Thu, 26 Sep 2024 20:28:33 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-9-28-walking-to-work-in-the-rain/</guid>
+      <description>&lt;p&gt;Every once in a while, I get to walk somewhere in the rain. Usually it&amp;rsquo;s just into the office at work, or into the grocery store. But a few minutes outside in the rain can be a wonderful time.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not like driving where you&amp;rsquo;re warm and comfortable and insulated from the rain itself and only have to manage the windshield wipers. Walking in the rain let&amp;rsquo;s you experience a natural wonder no matter where you live. It&amp;rsquo;s free and easy and can be spectacular &lt;em&gt;if you choose to let it&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Not a Big Deal</title>
+      <link>http://localhost:1313/writing/2024-9-28-not-a-big-deal/</link>
+      <pubDate>Thu, 26 Sep 2024 20:28:04 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-9-28-not-a-big-deal/</guid>
+      <description>&lt;p&gt;I just spent a day and a half being upset, when in reality both the cause and effect were simply quite small concerns.&lt;/p&gt;&#xA;&lt;p&gt;For the technical context, I&amp;rsquo;m leading a project where we have several overseas engineers. They&amp;rsquo;re smart and capable of good work, but frequently end up blocked by issues that simply wouldn&amp;rsquo;t exist within the walled garden of being a full-time employee. Their accounts need all kinds of special access, setup takes longer, and they don&amp;rsquo;t always have the project context that the rest of us do. In this case, we had a few tickets that required using a 3rd-party tool. Of course there was the usual frustration of setting up accounts (But the Stoic must ask: Why was this a frustration? Somebody was going to do work that I didn&amp;rsquo;t want to, so that I didn&amp;rsquo;t have to! And all I would have to do is start them on the path.), but then we found that they couldn&amp;rsquo;t really use the tool because they were outside of the United States.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes on the Evolution of Language</title>
+      <link>http://localhost:1313/writing/2024-9-4-skibidi/</link>
+      <pubDate>Wed, 04 Sep 2024 21:10:50 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-9-4-skibidi/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a whole class of internet-based complaints about the current language used by, I think, middle schoolers of the moment. These complaints center around both newly invented words and existing words that have been assigned new meanings, interchangable with their old forms. The small-minded complainers take their outrage over these &amp;ldquo;brainrot&amp;rdquo; words to the internet, while the rest of us, if you&amp;rsquo;ve even heard a Gen-Alpha talk lately (I certainly haven&amp;rsquo;t), simply ignore them in the normal time-tested tradition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Stoic Joy</title>
+      <link>http://localhost:1313/writing/2024-6-30-a-stoic-joy/</link>
+      <pubDate>Sun, 30 Jun 2024 18:37:16 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-6-30-a-stoic-joy/</guid>
+      <description>&lt;p&gt;Much of what I write is about books - I enjoy reading and learning from the lessons inside their stories. This time, I&amp;rsquo;m sharing an observation, really just a perspective of the world I chanced upon.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve spent the last week in the Pocono Mountains, a rural and picturesque area of Pennsylvania sprinkled evenly with one-street coal towns and million-dollar resorts. The National Competition for the dance year is the main event; bottom-tier contestants cry as they run off stage after receiving an Elite Gold medal, and the best are awarded Premier Battle of Champions Crystal Trophies, Golden Tickets, Banners, and Pins. Competition is a place of extremes, where the extreme bottom starts at the natural top, and the adulations always ascend.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Something Exciting</title>
+      <link>http://localhost:1313/writing/2024-5-6-something-exciting/</link>
+      <pubDate>Mon, 06 May 2024 22:24:21 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-5-6-something-exciting/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been reading a huge amount of SciFi recently, and wanted to try writing my own original story with a brand new idea and an Asimov-style twist at the end.&lt;/p&gt;&#xA;&lt;p&gt;Enjoy -&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Joe opened his lunchbox and let the metal lid clink down on the workbench. Peanut butter and jelly, again. Certainly better than he had eaten during much of his time at the university, but not quite as exciting as he might wish for. Just like the job itself, he supposed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything a Moonshot</title>
+      <link>http://localhost:1313/writing/2024-4-2-everything-a-moonshot/</link>
+      <pubDate>Tue, 02 Apr 2024 23:30:14 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2024-4-2-everything-a-moonshot/</guid>
+      <description>&lt;p&gt;What if everything was a moonshot?&lt;/p&gt;&#xA;&lt;p&gt;Nobody remembers anything small, so why do we bother? Small changes rarely have the desired impact, because we have compromised before ever starting the project. When we accept that doing &amp;ldquo;just this part&amp;rdquo; will be good enough, we are actively saying that we &lt;em&gt;can&lt;/em&gt; indeed see the big picture, but don&amp;rsquo;t believe that either it&amp;rsquo;s possible or worthwhile to accomplish it. Given that it&amp;rsquo;s not worthwhile to accomplish the big-picture ask, should we even be attempting the scaled-down version?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automating My Mistakes</title>
+      <link>http://localhost:1313/writing/2021-3-19-automating-my-mistakes/</link>
+      <pubDate>Wed, 14 Feb 2024 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/writing/2021-3-19-automating-my-mistakes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally published on 2021-3-19 as an internal tech blog post when I was the Tech Lead for Wayfair&amp;rsquo;s Experimentation Platform team. Internal links will not work.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;automating-my-mistakes&#34;&gt;Automating my mistakes&lt;/h3&gt;&#xA;&lt;p&gt;While building the initial steps of the &lt;a href=&#34;https://github.csnzoo.com/shared/gambit-task-queue&#34;&gt;GTQ&lt;/a&gt; project I found mysef stuck without a way to test code locally (at least without standing up a lot more project environment scaffolding), meaning that I had a slightly longer than ideal change/test loop:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memory Profiling with Python</title>
+      <link>http://localhost:1313/writing/2021-1-26-python-memory-profiling/</link>
+      <pubDate>Wed, 14 Feb 2024 23:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/writing/2021-1-26-python-memory-profiling/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Originally published on 2021-1-26 as an internal tech blog post when I was the Tech Lead for Wayfair&amp;rsquo;s Experimentation Platform team. Internal links will not work.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-i-learn-about-memory-profiling-in-python&#34;&gt;Where I learn about memory profiling in Python&lt;/h3&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve observed that Simulations can fail when run in Kubernetes pods. We suspect the reason is that these pods are under-resourced and are running out of memory, then being killed/restarted by Kubernetes in order to keep the overall cluster healthy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disney Engineered</title>
+      <link>http://localhost:1313/writing/2023-8-20-disney-engineered/</link>
+      <pubDate>Sun, 03 Sep 2023 20:52:04 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2023-8-20-disney-engineered/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;2023-8-20-Disney-Engineered-Pic1.jpeg&#34; alt=&#34;2023-8-20-Disney-Engineered-Pic1.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Besides world-class entertainment, immersive story-driven rides, and fine dining where you can eat filet mignon 3 times a day [1], the engineered efficiency of Disney World is absolutely top-tier. That makes it all the more fun to find situations that can be improved. Our most recent trip in August 2023 provided a few:&lt;/p&gt;&#xA;&lt;p&gt;In order to enter the parks, you must scan either an RFID-based MagicBand(TM) which is like a digital watch without all the excitement, or an RFID-based card, which is like a Disney-branded RFID card. Disney has correctly anticipated that the park entrance lines will be extremely busy, especially during park opening, and has therefore placed 2 RFID scanners at the head of every entrance line.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overpacking</title>
+      <link>http://localhost:1313/writing/2023-5-20-overpacking/</link>
+      <pubDate>Sat, 20 May 2023 22:41:49 -0400</pubDate>
+      <guid>http://localhost:1313/writing/2023-5-20-overpacking/</guid>
+      <description>&lt;p&gt;Why do we like overpacking for trips so much?&lt;/p&gt;&#xA;&lt;p&gt;I think it&amp;rsquo;s because the brain loves resets and new things - I think the brain actually loves &lt;em&gt;getting good&lt;/em&gt; at new skills and environments much more than it enjoys &lt;em&gt;being good&lt;/em&gt; at those same skills and in those same environments.  The brain is near infinitely flexible and that&amp;rsquo;s its ultimate strength.&lt;/p&gt;&#xA;&lt;p&gt;I just finished packing for a single weekend away.  I wanted to bring a journal and necessary fountain pen, writing prompt book, a new nonfiction book to read, handheld amateur radio, laptop, camera gear, and Nintendo Switch.  I stood over my already full bag thinking &amp;ldquo;wow, this sure is a great time to pick back up all these activities that I love&amp;rdquo;.  When in reality, I haven&amp;rsquo;t touched any of those for weeks if not months at home.  So what&amp;rsquo;s the immediate necessity of bringing all those toys for a weekend away when I haven&amp;rsquo;t even prioritized using them where they &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; need to be lugged around in a suitcase?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Other 8 Hours</title>
+      <link>http://localhost:1313/writing/2023-1-10-the-other-8-hours/</link>
+      <pubDate>Tue, 10 Jan 2023 23:03:52 -0500</pubDate>
+      <guid>http://localhost:1313/writing/2023-1-10-the-other-8-hours/</guid>
+      <description>&lt;p&gt;In a quote that I can neither exactly remember nor find [1], in which some terribly heretical 19th-century socialist extolls the absurdity of limiting a work day to 8 hours, they also comment on the remaining 8 hours of leisure, rest, and relaxation time that each man has available at the end of the workday, and before the biologically required 8 hours of sleep. The main point is that every man is free to conduct himself exactly like the wealthy for those 8 hours. No matter the man&amp;rsquo;s station at work, or the fact that he must work at all to provide for his family, in those remaining 8 hours, equality is governed by self-directed purpose. He might study the fine arts of literature and painting, attend theater, or study philosophy. In the &amp;ldquo;other 8&amp;rdquo; hours, there is no limit to the type of self-improvement a man is allowed to undertake.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Emoji of Data</title>
+      <link>http://localhost:1313/writing/2019-1-26-oneemojiofdata/</link>
+      <pubDate>Tue, 26 Feb 2019 01:02:03 -0405</pubDate>
+      <guid>http://localhost:1313/writing/2019-1-26-oneemojiofdata/</guid>
+      <description>&lt;p&gt;I recently spent some time thinking about how nice it is to be able to pay for gas a with a phone app from inside the car, the get out and start pumping immediately, no card swiping or buttons besides the big 89 needed.  And once you&amp;rsquo;re done pumping, the app collects one single point of feeback data: you can click either the Smile, Meh, or Frown emoji.&lt;/p&gt;&#xA;&lt;p&gt;Theoretically, something is being done with this data.  And hopefully, it&amp;rsquo;s useful analysis that is eventually incorporated into improvements and higher returns for the business.  On the surface, one emoji worth of data isn&amp;rsquo;t that much and it might be pretty tough to understand anything about user experience with one solitary data point.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design Inspiration from a Gas Station</title>
+      <link>http://localhost:1313/writing/2018-2-25-designinspirationfromagasstation/</link>
+      <pubDate>Sun, 25 Feb 2018 01:02:03 -0405</pubDate>
+      <guid>http://localhost:1313/writing/2018-2-25-designinspirationfromagasstation/</guid>
+      <description>&lt;p&gt;In the past few years, Cumberland Farms has transformed themselves from a blue-and-orange gas station that you go to because you have to, into a blue-and-green (because you can reap the marketing rewards of &lt;em&gt;the color green&lt;/em&gt;) gas station destination.&lt;/p&gt;&#xA;&lt;p&gt;They did all this by changing the few things that people actually care about when it comes to gas stations.  The stations now have a bright, modern design, with white walls and light wood floors.  Their shelves are consistently well stocked, and they are even &lt;em&gt;clean&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

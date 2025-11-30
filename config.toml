@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Victor Jacek"
 theme = 'vjacek'
 buildDrafts = 'false'
-publishDir = 'docs'
+publishDir = 'docs' # must be 'docs' because that's what github pages needs
 relativeURLs = 'true'
 pluralizeListTitles = 'false'
 
