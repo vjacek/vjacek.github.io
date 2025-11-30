@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Victor Jacek"
 theme = 'vjacek'
 buildDrafts = 'false'
-publishDir = 'build'
+publishDir = 'docs'
 relativeURLs = 'true'
 pluralizeListTitles = 'false'
 
