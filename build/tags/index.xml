@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Victor Jacek</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vjacek.github.io/tags/</link>
     <description>Recent content in Tags on Victor Jacek</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jan 2023 22:42:50 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vjacek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading</title>
-      <link>http://localhost:1313/tags/reading/</link>
+      <link>https://vjacek.github.io/tags/reading/</link>
       <pubDate>Sat, 07 Jan 2023 22:42:50 -0500</pubDate>
-      <guid>http://localhost:1313/tags/reading/</guid>
+      <guid>https://vjacek.github.io/tags/reading/</guid>
       <description></description>
     </item>
   </channel>
