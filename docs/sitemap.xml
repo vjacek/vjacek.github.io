@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vjacek.github.io/book-reviews/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vjacek.github.io/book-reviews/2025-12-18-flight-of-the-nighthawks/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vjacek.github.io/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +18,6 @@
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2025-11-22-a-fire-upon-the-deep/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vjacek.github.io/book-reviews/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vjacek.github.io/book-reviews/2025-10-13-be-useful/</loc>
