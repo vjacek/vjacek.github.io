@@ -6,7 +6,7 @@ draft: false
 
 For the first time, probably ever, I think I actually own all the books I read in the previous year. So while I enjoy ranking books, among other things, doing it physically is a fun twist!
 
-![/2024-1-25-2023-Superlatives.jpeg](/2024-1-25-2023-Superlatives.jpeg)
+![2024-1-25-2023-Superlatives.jpg](2024-1-25-2023-Superlatives.jpg)
 
 If I had to place a dividing line, I'd put only the top 4, The Deep Range and above, into my "highly recommended" list for the year. I'm proud of myself for trying such a wide range of books, but in the future I would rather increse the percentage of books that I really enjoy.
 
