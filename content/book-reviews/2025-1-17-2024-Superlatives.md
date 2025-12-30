@@ -4,7 +4,7 @@ date: 2025-01-17
 draft: false
 ---
 
-In 2024, I read 20 books, an increase from the 14 I read in 2023. Giving out superlatives last year and ranking my favorites was rather fun, so although I don't have a photo of all the physical books because I read many on kindle, here's the new list -
+In 2024, I read 20 books, an increase from the 14 I read in 2023. Giving out superlatives last year and ranking my favorites was rather fun, so although I don't have a photo of all the physical books because I read many on kindle, here's the new ranked list -
 
 Tress of the Emerald Sea  
 Nightfall  
