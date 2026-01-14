@@ -1,7 +1,7 @@
 ---
 title: "2025 Superlatives"
 date: 2026-01-01
-draft: true
+draft: false
 ---
 
 I read 17 books this year.
