@@ -29,3 +29,5 @@ _Spoiler_
 I figured out why Andi isn't affected on page 163, a few tens of pages before it's made clear. The clue was that the innards of Polybius are described as [DLP](https://en.wikipedia.org/wiki/Digital_light_processing) and she is colorblind.
 
 While writing this review, I just found out that there's [an urban legend of the game](<https://en.wikipedia.org/wiki/Polybius_(urban_legend)>) too, which makes it even cooler.
+
+EDIT: Reading the the DLP wiki is worth it just to learn that [Wobulation](https://en.wikipedia.org/wiki/Wobulation) is a real word.
