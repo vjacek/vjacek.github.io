@@ -23,7 +23,7 @@ As the plot starts to deepen, instead of saying "no participating in this super 
 
 I do wish someone would have just smashed the game earlier when it was even a possibility that it was the cause of the town's problems. But those poor suckers in the book keep trying to play by the rules. I've come to understand that rules are made up by yesterday's winners to keep themselves in power, and mostly have absolutely no scientific or moral basis.
 
-The writing is a little awkward because it's so strictly 3rd person. The main character has a very personal relevation that her father is not someone to look up do, and it's like "Andi realized that Devon is a loser".
+The writing is a little awkward because it's so strictly 3rd person. The main character has a very personal relevation that her father is not someone to look up to, and it's like "Andi realized that Devon is a loser".
 
 _Spoiler_
 I figured out why Andi isn't affected on page 163, a few tens of pages before it's made clear. The clue was that the innards of Polybius are described as [DLP](https://en.wikipedia.org/wiki/Digital_light_processing) and she is colorblind.
