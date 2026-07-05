@@ -1,7 +1,7 @@
 ---
 title: "Virtue Signaling"
 date: 2026-07-04T21:17:00-04:00
-draft: true
+draft: false
 tags: ["career"]
 ---
 
