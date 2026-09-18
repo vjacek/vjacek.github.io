@@ -20,3 +20,5 @@ Outside of work, I still love building things:
 [1headline](http://1headline.com) Take control of your media consumption with The Newsstand Theory: All the news you really need is available by walking past a newsstand and glancing at the front pages. No infinite scroll and intentionally minimal; stop wasting your time on sites where you're only an <span style="font-family: Courier">advertising_id</span>.
 
 My [Photography](http://victorjacekphotography.com) work spans a wide range, with origins in landscape and architecture, and now including dynamic portraints in dance and cheer. Of course, I built my own portfolio website, including a neat solution that lets me add new photos without any code changes.
+
+I also enjoy [reading](/book-reviews/) and [writing](/writing/). I've learned and improved my own writing from studying and keeping track of the books I've enjoyed.
