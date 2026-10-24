@@ -9,7 +9,7 @@ Kevin Cullen and Shelley Murphy
 
 &#9733; &#9733; &#9734; &#9734; &#9734;
 
-This book's primary downfall is that it suffers from the [Historical Facts Problem](/content/book-reviews/2026-6-1-In-The-Arena.md). What I wanted out of this book was to learn from a heavily flawed figure: what mental toughness helped him survive Alcatraz, how did growing up in the Southie projects shape his outlook on work, crime, getting help from on high, snitching, maybe reconciling snitching with "informing"... Without all of these, Whitey is just an opportunistic grifter, who maybe by sheer statistics, happens to be the popular and successful one. The author's efforts to be neutral and not pass judgement are so successful that the book is overall a fail because there is no opinion, just a bland textbook.
+This book's primary downfall is that it suffers from the [Historical Facts Problem](/book-reviews/2026-6-1-in-the-arena/). What I wanted out of this book was to learn from a heavily flawed figure: what mental toughness helped him survive Alcatraz, how did growing up in the Southie projects shape his outlook on work, crime, getting help from on high, snitching, maybe reconciling snitching with "informing"... Without all of these, Whitey is just an opportunistic grifter, who maybe by sheer statistics, happens to be the popular and successful one. The author's efforts to be neutral and not pass judgement are so successful that the book is overall a fail because there is no opinion, just a bland textbook.
 
 I wanted to find a hero in Whitey. A flawed one of course, with demons to fight and enemies in high places; the underdog people's hero - the local mythic mobster from Boston. I wanted to learn how to become a leader and build up an isolated and downtrodden community.
 
@@ -21,7 +21,7 @@ I can't quite call any of Whitey's life a tragedy because he chose to be as awfu
 
 At first I thought this was a pretty fun book to read, until you realize that the absolutely mockery of justice from the FBI is pretty much how the justice system in America has always been and still continues to function. In my opinion, laws derive their power from being a proxy for morality, and laws are not moral unless they are applied equally. Since they aren't, we are free to ignore any law we would like. Those in power sure do.
 
-Wrongful death cases against the Justice Department and FBI were mostly thrown out because statute of limitations had expired. But the government is not a single person, it is an organization that allowed its own cancer to exist and spread, linked by role not individual. Therefore I belive an organization or government cannot morally have a statute of limitations. [Maybe democracy didn't fail as recently as I thought.](/content/book-reviews/2025-8-10-Starship-Troopers.md)
+Wrongful death cases against the Justice Department and FBI were mostly thrown out because statute of limitations had expired. But the government is not a single person, it is an organization that allowed its own cancer to exist and spread, linked by role not individual. Therefore I belive an organization or government cannot morally have a statute of limitations. [Maybe democracy didn't fail as recently as I thought.](/book-reviews/2025-8-10-starship-troopers/)
 
 Bill Bulger might be an even worse criminal that Whitey. He didn't just try to support his brother; he enabled Whitey and shares responsibility for Whitey's murders. And Bill was of course supported by Ted Kennedy. We've also got him to thank for ruining the MBTA, or "Mister Bulger's Transit Authority".
 
